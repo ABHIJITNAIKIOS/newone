@@ -16,7 +16,30 @@ class ViewController: UIViewController {
         print("commiting")
             print("commited in abhijit")
         print("commited in abhijit second time")
+        
+        print("jai")
+        
+        
+        print("again")
+        
         super.viewDidLoad()
+        print("welocome in the hell")
+        
+        
+        
+        
+        print("I am now changing")
+        
+        
+        print("again change")
+        
+        
+        
+        
+        
+        
+        
+        
         // Do any additional setup after loading the view, typically from a nib.
     }
 
