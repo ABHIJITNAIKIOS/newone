@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         
         print("commiting")
         super.viewDidLoad()
+        print("welocome in the hell")
         
         
         
