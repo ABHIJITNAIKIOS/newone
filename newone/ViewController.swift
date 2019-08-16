@@ -16,7 +16,6 @@ class ViewController: UIViewController {
         print("commiting")
             print("commited in abhijit")
         print("commited in abhijit second time")
-         print("commited in abhijit third time")
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
