@@ -20,6 +20,8 @@ class ViewController: UIViewController {
         print("jai")
         
         
+        print("again")
+        
         super.viewDidLoad()
         print("welocome in the hell")
         
