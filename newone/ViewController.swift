@@ -16,6 +16,10 @@ class ViewController: UIViewController {
         print("commiting")
             print("commited in abhijit")
         print("commited in abhijit second time")
+        
+        print("jai")
+        
+        
         super.viewDidLoad()
         print("welocome in the hell")
         
