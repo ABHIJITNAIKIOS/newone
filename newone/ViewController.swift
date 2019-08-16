@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         
         
         print("commiting")
+            print("commited in abhijit")
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
